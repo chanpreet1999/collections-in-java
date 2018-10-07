@@ -2,9 +2,9 @@ import java.util.*;
 
 public class arrayList {
 
-	public static <E, T> void main(String[] args) {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ArrayList<T> ar=new ArrayList<T>();
+		ArrayList<Integer> ar=new ArrayList<Integer>();
 		ar.add(3);
 		ar.add(1234);
 		ar.add(34);
